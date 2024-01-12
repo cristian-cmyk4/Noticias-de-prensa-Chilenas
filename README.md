@@ -10,3 +10,4 @@ El objetivo principal de este estudio es analizar la evolución de las menciones
 relaciones entre ellos mediante la construcción de un grafo. Los grafos son estructuras que representan las interconexiones entre elementos, y su aplicación
 en el análisis de medios de prensa permite identificar patrones, agrupamientos y cambios en las relaciones entre países a lo largo del tiempo. 
 Además, el análisis de grafos nos permite identificar agrupamientos geográficos, destacando las conexiones entre países vecinos o de una misma región.
+Para más información leer reporte.
